@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RevisionsBlablaWild</string>
+    <string name="rechercher_itin_raire">Rechercher itinéraire</string>
+    <string name="search_text">Rechercher</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="fleche"><![CDATA[>>]]></string>
+</resources>
